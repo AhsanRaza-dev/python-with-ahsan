@@ -6,3 +6,5 @@ print(a[1:]) # to print hsan Raza your python instructor skipping the A
 print(a[1:6:2]) # That will print the char from the string 1 to 6 index but there is twist the 2 mention means that skip one between them it will only show "ha"
 
 print(a[::-1]) # that will reves the string
+
+# note: Strings are immutable you can change and del anything between them
