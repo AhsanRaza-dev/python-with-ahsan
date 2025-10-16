@@ -36,3 +36,20 @@ print(b)
 b = 'This is the {} course which will help you in getting the skills in the field of {}'.format('python','AI')
 print(b)
 
+# 8. isalnum / isalpha / isdecimal/ isdigit/ isidentidfier
+
+a = 'Flat20'.isalnum()
+print(a)
+
+a = 'Flat20'.isalpha()
+print(a)
+
+a = 'Flat20'.isdigit()
+print(a)
+
+a = 'Flat20'.isidentifier()
+print(a)
+
+# 9. split
+print('This is the python course which will help you in getting the skills in the field of AI'.split())
+
